@@ -1,5 +1,6 @@
-```markdown
+
 # Language Translation Bot  
+
 **Language Translation Bot** is an automated multilingual translation tool built with Python 2.7. Designed to translate text quickly, it supports hundreds of languages and features both interactive and batch modes for processing multiple texts at once.  
 
 ## 📜 Features  
