@@ -1,5 +1,8 @@
-
 # Language Translation Bot  
+
+![language-translation-bot Jenderal92](https://github.com/user-attachments/assets/26b21133-f277-485a-bf60-76c122c4ed7d)
+
+
 
 **Language Translation Bot** is an automated multilingual translation tool built with Python 2.7. Designed to translate text quickly, it supports hundreds of languages and features both interactive and batch modes for processing multiple texts at once.  
 
